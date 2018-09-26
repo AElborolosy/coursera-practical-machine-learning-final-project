@@ -2,7 +2,7 @@
 title: "Practical Machine Learning Final Project"
 author: "Ahmed Elborolosy"
 date: "September 26, 2018"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
